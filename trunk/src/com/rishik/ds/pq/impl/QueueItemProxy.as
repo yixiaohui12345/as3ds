@@ -1,4 +1,4 @@
-package com.pf.lite.api.util.pq.impl
+package com.rishik.ds.pq.impl
 {
 	import flash.utils.describeType;
 	

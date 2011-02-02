@@ -1,4 +1,4 @@
-package com.pf.lite.api.util.pq
+package com.rishik.ds.pq
 {
 	/**
 	 * This interface defines the contract for a Queue Item Proxy for items

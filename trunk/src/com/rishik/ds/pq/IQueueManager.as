@@ -1,8 +1,5 @@
-package com.pf.lite.api.util.pq
+package com.rishik.ds.pq
 {
-	import com.pf.lite.api.framework.observer.INotificationManager;
-	import com.pf.lite.api.framework.observer.ISubscriber;
-
 	/**
 	 * Interface defininig the contract for the Custom Queue Manager.
 	 *  

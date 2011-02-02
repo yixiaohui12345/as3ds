@@ -1,4 +1,4 @@
-package com.pf.lite.api.util.hash
+package com.rishikh.util.hash
 {
 	import com.adobe.crypto.SHA256;
 

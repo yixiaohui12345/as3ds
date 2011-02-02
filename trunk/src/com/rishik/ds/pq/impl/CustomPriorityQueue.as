@@ -1,8 +1,5 @@
-package com.pf.lite.api.util.pq.impl
+package com.rishik.ds.pq.impl
 {
-	import com.pf.lite.api.util.pq.IPriorityQueue;
-	import com.pf.lite.api.util.pq.IQueueItemProxy;
-	
 	public class CustomPriorityQueue implements IPriorityQueue {
 		
 		private var _priorityList:Vector.<IQueueItemProxy> = new Vector.<IQueueItemProxy>();
